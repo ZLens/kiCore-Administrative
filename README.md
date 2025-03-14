@@ -1,9 +1,9 @@
 # Project Name
 
-![GitHub repo size](https://img.shields.io/github/repo-size/username/repository)
-![GitHub contributors](https://img.shields.io/github/contributors/username/repository)
-![GitHub stars](https://img.shields.io/github/stars/username/repository?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/repository?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/ZLens/kiCore-Administrative)
+![GitHub contributors](https://img.shields.io/github/contributors/ZLens/kiCore-Administrative)
+![GitHub stars](https://img.shields.io/github/stars/ZLens/kiCore-Administrative?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ZLens/kiCore-Administrative?style=social)
 
 ## 🚀 Description
 A brief description of your project. Explain what it does and why it's useful.

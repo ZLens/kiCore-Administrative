@@ -1,4 +1,4 @@
-# Project Name
+# kiCore Administrative
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ZLens/kiCore-Administrative)
 ![GitHub contributors](https://img.shields.io/github/contributors/ZLens/kiCore-Administrative)
@@ -6,23 +6,26 @@
 ![GitHub forks](https://img.shields.io/github/forks/ZLens/kiCore-Administrative?style=social)
 
 ## 🚀 Description
-A brief description of your project. Explain what it does and why it's useful.
+Welcome to kiCore, an advanved administrative system for all your Roblox needs.
 
 ## 📌 Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Easily integrate with your existing systems to automate tasks and extend functionality.
+- Receive instant notifications for key events through webhooks to stay informed.
+- Navigate and manage tasks effortlessly with an intuitive, user-friendly design.
+- Execute complex tasks with easy-to-remember, straightforward commands.
+- Track all actions and changes with detailed logs for full accountability.
+- Manage permissions and restrict access to ensure a safe and controlled environment.
 
 ## 🛠 Installation
 ```bash
-# Clone the repository
-git clone https://github.com/username/repository.git
+# Navigate to the versions tab
+Download the latest version,
 
-# Navigate to the project directory
-cd repository
+# Drop file into roblox studio
+Drop the rbxm file into your place,
 
-# Install dependencies
-npm install  # or pip install -r requirements.txt (for Python projects)
+# Parent setting
+Drag the module into ServerScriptService, that's it!
 ```
 
 ## 🚀 Usage
@@ -32,22 +35,15 @@ npm start  # or python main.py
 ```
 
 ## 🔧 Configuration
-Explain any environment variables, config files, or setup steps needed.
-
-## 🤝 Contributing
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -m 'Add feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Open a Pull Request
+In order to configure this product, you can find the module in ServerScriptService. You only need to configure the module!
 
 ## 🛡️ License
-This project is licensed under the [MIT License](LICENSE).
+This project is open sourced however it is licensed under the [MIT License](LICENSE).
 
 ## 📞 Contact
 For any inquiries, reach out to:
-- **Email:** your.email@example.com
-- **GitHub:** [YourUsername](https://github.com/YourUsername)
+- **Email:** availentt@gmail.com
+- **Roblox:** [ikDebris](https://www.roblox.com/users/3674967405/profile)
+- **Discord:** [Perm Invite](https://discord.gg/DHez9DnhSn)
 
----
-Made with ❤️ by [Your Name]
+Made with ❤️ by Kallia

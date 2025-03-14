@@ -1,6 +1,4 @@
 # kiCore Administrative
-
-![GitHub repo size](https://img.shields.io/github/repo-size/ZLens/kiCore-Administrative)
 ![GitHub contributors](https://img.shields.io/github/contributors/ZLens/kiCore-Administrative)
 ![GitHub stars](https://img.shields.io/github/stars/ZLens/kiCore-Administrative?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ZLens/kiCore-Administrative?style=social)

@@ -28,12 +28,6 @@ Drop the rbxm file into your place,
 Drag the module into ServerScriptService, that's it!
 ```
 
-## 🚀 Usage
-```bash
-# Run the project
-npm start  # or python main.py
-```
-
 ## 🔧 Configuration
 In order to configure this product, you can find the module in ServerScriptService. You only need to configure the module!
 
